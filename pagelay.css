@@ -1,0 +1,13 @@
+html,body{
+height:297mm;
+width:210mm;
+}
+.main{background-color:#abacab;padding:0px;font-weight:bold;font-size:20px;
+}
+hr{border:5px solid black;}
+.spa{background-color:#abcda0;}
+//.ad{width=400px;font-family;}
+body{position:absolute;left:20px;font-family:calibri;}
+.total{background-color:#F0F0F0;}
+table{width:100%;border-collapse:collapse;border="0"}
+
